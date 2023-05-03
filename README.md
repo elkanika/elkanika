@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">A student of systems analysis with many dev projects</h3>
 
-- 🌱 **I’m currently learning learning everything about backend and improving my database usage.**
+- 🌱 **I’m currently learning everything about backend and improving my database usage.**
 - 📫 How to reach me **ezequiel.bena04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
