@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ezequiel</h1>
-<h3 align="center">A student of systems analysis with many dev projects</h3>
+<h1 align="center">Hola 👋, Soy Ezequiel</h1>
+<h3 align="center">Un estudiante de análisis de sistemas con muchos proyectos de desarrollo</h3>
 
-- 🌱 **I’m currently learning everything about backend and improving my database usage.**
-- 📫 How to reach me **ezequiel.bena04@gmail.com**
+- 🌱 **Actualmente estoy aprendiendo todo sobre backend y desarrollo web, y mejorando el uso de mi base de datos.**
+- 📫 Cómo ponerse en contacto conmigo **ezequiel.bena04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/elkanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elkanika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ezequiel-sharif-benavidez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel sharif benavidez" height="30" width="40" /></a>
