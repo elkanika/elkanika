@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ezequiel</h1>
 <h3 align="center">Analista de Sistemas Informáticos y Auxiliar de Programación</h3>
 
-- 🌱 **Actualmente continuo mejorando en el desarrollo de sistemas web completos.**
+- 🌱 **Mejorando constantemente en el desarrollo de software, el estudio y mi carrera.**
 - 📫 Cómo ponerse en contacto conmigo **ezequiel.bena04@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
